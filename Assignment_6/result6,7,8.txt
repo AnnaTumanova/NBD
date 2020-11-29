@@ -1,0 +1,2 @@
+for connection with at most N=3 different airports between LAX and DAY( LAX->1->DAY, LAX->1->2->DAY, LAX->1->2->3->DAY )
+in my solution I guess there is no such connection exist
