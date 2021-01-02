@@ -1,3 +1,0 @@
-retrieve and println: task8
-modify and retrieve and println: task8 abc
-delete and retrieve and println: null
